@@ -10,7 +10,9 @@ Output: [Piezo Speaker - PC Mount 12mm 2.048kHz](https://www.sparkfun.com/produc
 Output Additionals:
 
 1.[Transistor - NPN BC337](https://www.sparkfun.com/products/13689)
+
 2.[Diode Rectifier - 1A 50V](https://www.sparkfun.com/products/8589)
+
 3.[Resistor 1k Ohm 1/6 Watt PTH](https://www.sparkfun.com/products/8980)
 
 
